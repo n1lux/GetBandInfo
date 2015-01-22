@@ -1,0 +1,14 @@
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\GetBandInfo.dll.config
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\GetBandInfo.dll
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\GetBandInfo.pdb
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\Newtonsoft.Json.dll
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\System.Net.Http.Formatting.dll
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\System.Web.Http.dll
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\System.Web.Http.WebHost.dll
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\Newtonsoft.Json.xml
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\System.Net.Http.Formatting.xml
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\System.Web.Http.xml
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\bin\System.Web.Http.WebHost.xml
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\obj\Debug\GetBandInfo.csprojResolveAssemblyReference.cache
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\obj\Debug\GetBandInfo.dll
+c:\users\n1lux\documents\visual studio 2013\Projects\GetBandInfo\GetBandInfo\obj\Debug\GetBandInfo.pdb
